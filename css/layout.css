@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Didact+Gothic&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
 * {
     margin: 0;
     padding: 0;
@@ -201,7 +202,8 @@ body {
     text-decoration: none;
     padding: 5px;
     color: var(--Slate);
-    font-size: 1.2em;
+    font-size: 1.5em;
+    font-family: 'Pacifico', cursive;
 }
 .emaildiv>a:hover{
     position: relative;
